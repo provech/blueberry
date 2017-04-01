@@ -1,0 +1,3 @@
+CREATE TABLE Datos(Id_Datos INT (20) NOT NULL AUTO_INCREMENT, 
+Nombre_Dato varchar(50) NOT NULL , 
+PRIMARY KEY (Id_Datos));
